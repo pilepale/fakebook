@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: #fff;
+}
+h1 {
+  color: #fff;
+  font-family: Arial;
+  font-size: 32px;
+  margin: 0;
+  text-align: left;
+  padding-bottom: 10px;
+
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 900;
+  margin: 0;
+  text-align: left;
+  color: #fff;
+  padding: 15px;
+}
+
+.search {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial;
+  margin-top: 20px;
+}
+.image {
+  margin: auto;
+  border: 5px solid #fff;
+}
+.image:hover {
+  border: 5px solid #ff6600;
+}
+
+button {
+  font-family: Arial;
+  font-size: 20px;
+  color: #ff6600;
+  padding: 15px;
+  text-align: center;
+}
